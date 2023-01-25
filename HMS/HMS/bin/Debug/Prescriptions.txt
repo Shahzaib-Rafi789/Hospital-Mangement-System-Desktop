@@ -1,0 +1,2 @@
+P1,Carvedilol:10;Acetaminopheni:10,1-0-1;0-0-1
+P2,Carvedilol:12,1-0-0

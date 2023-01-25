@@ -1,0 +1,12 @@
+Aspirin,Tablet,100,50,10
+Visine,Drops,40,36,7
+Carvedilol,Tablet,120,55,12
+Atenolol,Tablet,300,70,10
+Acetaminopheni,Syrup,400,50,5
+Burprofen,Tablet,45,65,5
+Panadol,Tablet,40,75,10
+Lisinorpil,Syrup,130,40,10
+Metformin,Tablet,2000,30,5
+Amplodimine,Tablet,310,60,12
+Metoprolol,Syrup,40,60,10
+Tramadol,Tablet,200,60,10

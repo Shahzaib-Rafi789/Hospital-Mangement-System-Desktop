@@ -1,0 +1,3 @@
+001,Medicine Department,D001;D005;D011;D012;D013;D020
+002,Physical Medicine and Rehabilitation Department,D006;D017
+003,Paramedical Department,D007;D010;D015;D023

@@ -1,0 +1,5 @@
+Hamza,P1,P1,100,100,Male,,,,,D015
+Naeem,P2,P2,1000,12,Male,,,,,D006
+Qasim,P3,P3,1000,145,Female,D6,,,,D015
+Nimrah,P4,P4,10000,56,Female,D5,,,,D015
+Subhan,P5,P5,100,50,Male,A1,,,,D015

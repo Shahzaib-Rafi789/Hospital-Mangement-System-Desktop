@@ -1,0 +1,12 @@
+D001,MD,Cardiologist
+D005,PhD,Neurologist
+D006,MD,Psychiatrist
+D007,MD,Therapist
+D010,MLT,Technician
+D011,DO,Cardiologist
+D012,MD,Neurologist
+D013,DO,Cardiologist
+D015,MD,Therapist
+D017,DO,Psychiatrist
+D020,PhD,Neurologist
+D023,MLT,Technician
